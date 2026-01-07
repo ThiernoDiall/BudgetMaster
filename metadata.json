@@ -1,0 +1,5 @@
+{
+  "name": "BudgetMaster Pro",
+  "description": "Une application complète de suivi budgétaire style 'Bolt/Lovable', avec tableaux de bord, suivi des dettes, investissements et export Excel complet.",
+  "requestFramePermissions": []
+}
